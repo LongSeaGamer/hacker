@@ -10,6 +10,7 @@ namespace hacker
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
         }
     }
 }
